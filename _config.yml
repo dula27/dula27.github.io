@@ -30,12 +30,14 @@ header_pages:
 - abdullah.md
 - resume.md
 
+remote_theme: b2a3e8/jekyll-theme-console
 markdown: kramdown
 
 footer: 'Checkout <a href="https://github.com/dula27">GitHub</a>'
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: dula27.github.io
+url: https://my-site.github.io # the subpath of your site, e.g. /blog
+baseurl: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  dula27
 
