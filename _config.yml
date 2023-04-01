@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Abdullah Hassan
+email: dula@gwu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my coding portfolio showcasing my diverse range of projects, 
+  from e-commerce websites to mobile apps, highlighting my skills in coding, design, and problem-solving.
 
 header_pages:
 - index.md
