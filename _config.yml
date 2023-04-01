@@ -42,7 +42,6 @@ baseurl: "" # the base hostname & protocol for your site, e.g. http://example.co
 github_username:  dula27
 
 # Build settings
-theme: jekyll-theme-console
 style: light
 plugins:
   - jekyll-feed
