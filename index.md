@@ -23,7 +23,7 @@ Hi there! My name is **Abdullah Hassan**, and I am a Software Engineer who gradu
 `+-------------------------------------------------------------------------------------+`
 `|` [BITRAX - Personalized Stock & Crypto Watchlist App](/projects/bitrax/)                           `|`
 `+-------------------------------------------------------------------------------------+`
-Paint Spray Program is a .NET Windows app for creating art on a blank canvas or loading images. It has a user-friendly interface with a drawing canvas, painting tools, and save/load buttons.
+Bitrax is a user-friendly mobile app designed to help investors stay up-to-date with real-time market data and easily manage their stock and cryptocurrency watchlists.
 `+-------------------------------------------------------------------------------------+`
 `|` [.NET Spray Paint](/projects/spraypaint/)                                                             `|`
 `+-------------------------------------------------------------------------------------+`
